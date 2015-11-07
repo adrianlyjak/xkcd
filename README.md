@@ -9,9 +9,7 @@ A replacement for "cd" that quotes XKCD
 Mashes a function at the end of your `.bash_profile`. If you keep your system tidy or don't have a one... figure it out
 
 ```shell
-git clone https://github.com/adrianlyjak/xkcd
-cd xkcd
-./install.sh
+curl https://raw.githubusercontent.com/adrianlyjak/xkcd/master/install.sh | bash
 ```
 
 ## Usage
