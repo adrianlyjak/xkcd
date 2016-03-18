@@ -1,6 +1,6 @@
 # xkcd
 
-> "Brains aside, I wonder how many poorly-written xkcd.com-parsing scripts will break on this title (or ;;"''{<<[' this mouseover text.""
+> "Brains aside, I wonder how many poorly-written xkcd.com-parsing scripts will break on this title (or ;;"''{<<[' this mouseover text."" - [https://xkcd.com/859/](https://xkcd.com/859/)
 
 A replacement for "cd" that quotes XKCD
 
